@@ -1,4 +1,4 @@
-## Olá! Sou Igor Muniz, estudante de Análise e Desenvolvimento de Sistemas 
+## Hey! I'm Igor Muniz, I'm studying systems analysis and development. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-muniz-6a9975202/">
