@@ -5,7 +5,7 @@
 <p> - 👨‍💻 Programador iniciante em busca de uma oportunidade. </p>
 <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 4° semestre. </p>
 <p> - 🎯 Interesse: Java, Cloud Computing, Spring Boot, API , HTML, CSS, JavaScript, React e Nodejs . </p>
-<p> - 🤓 Sou amante do futuro, onde a tecnologia, a engenharia... enfim, a ciência sempre me rodeie. Focado em desenvolvimento web e jogos digitais .  </p>
+<p> - 🤓 Sou amante do futuro, onde a tecnologia, a engenharia... enfim, a ciência sempre me rodeie. Focado em desenvolvimento web e jogos digitais 👾.  </p>
 <p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehe --> couplelys</p>
   
 </div>
