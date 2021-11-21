@@ -9,7 +9,7 @@
 <p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehe --> couplelys</p>
 </div>
 
-### Siga-me também   
+### Seguir/Contatar   
   <a href="https://instagram.com/muniz.igor__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: muniz.igor.tec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-muniz-6a9975202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
