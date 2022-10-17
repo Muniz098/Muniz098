@@ -4,15 +4,15 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Programador iniciante em busca de uma oportunidade. </p>
 <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 4° semestre. </p>
-<p> - 🎯 Interesses: Cloud Computing, Spring Boot, API , HTML, CSS, JavaScript, React e Nodejs . </p>
+<p> - 🎯 Interesses: Cloud Computing, HTML, CSS, JavaScript, React e Nodejs . </p>
 <p> - 🚀 Sou amante do futuro, onde a ciência sempre me rodeie. Focado em desenvolvimento web e jogos digitais 👾.  </p>
 <p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehe --> couplelys</p>
 </div>
 
-### Seguir/Contatar   
-  <a href="https://instagram.com/muniz.igor__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### Contate me   
   <a href = "mailto: muniz.igor.tec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-muniz-6a9975202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/igor-muniz-6a9975202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://dribbble.com/Muuniz_" target="_blank"><img src="https://img.shields.io/badge/-dribbble-%230077B5?style=for-the-badge&logo=dribbble&logoColor=pink" target="_blank"></a>
 
 ## Perfil
 <div align="center">
