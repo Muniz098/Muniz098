@@ -7,7 +7,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Programador iniciante em busca de uma oportunidade. </p>
+<p> - 👨‍💻 Programador em busca de uma oportunidade. </p>
 <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 4° semestre. </p>
 <p> - 🎯 Interesses: Cloud Computing, HTML, CSS, JavaScript, React e Nodejs . </p>
 </div>
