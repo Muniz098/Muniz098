@@ -1,14 +1,9 @@
 ## Olá! Eu sou o Igor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
 <a href="https://github.com/Muniz098/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniz098&layout=compact&langs_count=7&theme=dracula"
-  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniz098&layout=compact&langs_count=7&theme=dracula"/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muniz098&show_icons=true&locale=en&theme=dracula" alt="Muniz098" /></p>
 </a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muniz098&show_icons=true&locale=en&theme=dracula" alt="Muniz098" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muniz098&theme=dracula" alt="Muniz098" /></p>
 
 ### Sobre mim
@@ -19,7 +14,7 @@
 </div>
 
 ### Contate me   
-  <a href = "mailto: muniz.igor.tec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </br>
+  <a href = "mailto: muniz.igor.tec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-muniz-6a9975202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ### Skills 📚 
