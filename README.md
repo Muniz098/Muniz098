@@ -14,11 +14,11 @@
 
 #### Follow me:
 [![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://igormuniz-portfolio.netlify.app/)]([https://igormuniz-portfolio.netlify.app/](https://igormuniz-portfolio.netlify.app/)/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maykonmendel)](https://github.com/maykonmendeldev)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Muniz098)](https://github.com/Muniz098)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-muniz-6a9975202/)](https://www.linkedin.com/in/igor-muniz-6a9975202/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muniz._igor/)](https://www.instagram.com/muniz._igor/)
-[![Twitch](https://img.shields.io/badge/Maykon&nbsp;Mendel-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/calejad0)](https://www.twitch.tv/calejad0)
-[![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community6f84d2style=flatsquare&labelColor=6f84d2&logo=discord&logoColor=white&link=https://discord.gg/fullstackoverflow)](https://discord.gg/fullstackoverflow)
+[![Twitch](https://img.shields.io/badge/Igor&nbsp;Muniz-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/calejad0)](https://www.twitch.tv/calejad0)
+[![Discord Badge](https://img.shields.io/badge/-Discord-6f84d2?style=flat-square&labelColor=6f84d2&logo=Discord&logoColor=white&link=https://discord.com/channels/igormuniz_)](https://discord.com/channels/igormuniz_)
   
 ### Skills 📚 
   
