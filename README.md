@@ -1,11 +1,15 @@
 ## Olá! Eu sou o Igor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Muniz098/github-readme-stats">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniz098&layout=compact&langs_count=7&theme=dracula"
   />
 </a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muniz098&show_icons=true&locale=en&theme=dracula" alt="Muniz098" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muniz098&theme=dracula" alt="Muniz098" /></p>
 
 ### Sobre mim
 <div style="display: inline_block"  >
