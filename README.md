@@ -8,8 +8,8 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Programador em busca de uma oportunidade. </p>
-<p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 4° semestre. </p>
-<p> - 🎯 Interesses: Cloud Computing, HTML, CSS, JavaScript, React e Nodejs . </p>
+<p> - 👨‍🎓 Recém formado em Análise de Sistemas </p>
+<p> - 🎯 Interesses: Java, Cloud Computing, HTML, CSS, JavaScript, React e Nodejs . </p>
 </div>
 
 #### Follow me:
