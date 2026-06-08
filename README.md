@@ -1,14 +1,9 @@
-## Olá! Eu sou o Igor! 
+## Olá! Sou Igor Muniz! 
 
-<a href="https://github.com/Muniz098/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniz098&layout=compact&langs_count=7&theme=dracula"/>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muniz098&show_icons=true&locale=en&theme=dracula" alt="Muniz098" />
-</a>
-
-### Sobre mim
+### Sobre mim:
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Analista de Dados Júnior </p>
-<p> - 👨‍🎓 Formado em Análise de Sistemas e buscando MBA em ciência de dados </p>
+<p> - 👨‍💻 Analista de Dados Júnior; </p>
+<p> - 👨‍🎓 Formado em Análise de Sistemas e buscando MBA em ciência de dados; </p>
 <p> - 🎯 Interesses: Python, SQL, HTML, CSS, Excel, Power BI e IA. </p>
 </div>
 
