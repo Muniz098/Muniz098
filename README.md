@@ -1,6 +1,6 @@
-[preview.html](https://github.com/user-attachments/files/28692584/preview.html)
 <h1 align="center">
   Olá, eu sou Igor Muniz! 
+  <img src="https://media.tenor.com/Fx8i4GQY5eUAAAAC/naruto.gif" width="90">
 </h1>
 
 <h3 align="center">
