@@ -1,6 +1,6 @@
 <h1 align="center">
   Olá, eu sou Igor Muniz! 
-  <img src="https://media.tenor.com/qM3VxD9KX0sAAAAC/demon-slayer-tanjiro.gif" width="90">
+  <img src="https://media.tenor.com/N4L7vYzq8iQAAAAC/tanjiro-kamado.gif" width="90">
 </h1>
 
 <h3 align="center">
