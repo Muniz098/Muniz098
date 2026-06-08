@@ -1,6 +1,6 @@
 <h1 align="center">
   Olá, eu sou Igor Muniz! 
-  <img src="https://media.tenor.com/Fx8i4GQY5eUAAAAC/naruto.gif" width="90">
+  <img width="576" height="321" alt="tenor" src="https://github.com/user-attachments/assets/b10e1a0e-a69d-47df-924b-e25c5b04367a"/>
 </h1>
 
 <h3 align="center">
