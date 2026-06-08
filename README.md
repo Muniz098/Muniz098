@@ -14,11 +14,7 @@
 </div>
 
 #### Follow me:
-[![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://igormuniz-portfolio.netlify.app/)]([https://igormuniz-portfolio.netlify.app/](https://igormuniz-portfolio.netlify.app/)/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Muniz098)](https://github.com/Muniz098)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-muniz-6a9975202/)](https://www.linkedin.com/in/igor-muniz-6a9975202/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muniz._igor/)](https://www.instagram.com/muniz._igor/)
-[![Twitch](https://img.shields.io/badge/Igor&nbsp;Muniz-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/calejad0)](https://www.twitch.tv/calejad0)
 [![Discord Badge](https://img.shields.io/badge/-Discord-6f84d2?style=flat-square&labelColor=6f84d2&logo=Discord&logoColor=white&link=https://discord.com/channels/igormuniz_)](https://discord.com/channels/igormuniz_)
   
 ### Skills 📚 
@@ -26,7 +22,7 @@
   <div align="left">    
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,14 +37,3 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muniz098&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Muniz098)
-
-</br>
-<p align="center"> 
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Muniz098/count.svg" />
- </p>
-
-</p>
