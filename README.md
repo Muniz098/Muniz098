@@ -15,7 +15,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou con
 
 Tenho experiência no desenvolvimento de dashboards interativos, tratamento e transformação de dados, análise de indicadores e criação de relatórios para apoiar a tomada de decisões.
 
-<h3> Atualmente estou aprofundando meus conhecimentos em:</h3><img width="70" height="60" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" />
+<h3> Atualmente estou aprofundando meus conhecimentos em:</h3>
 
 - 📊 Power BI
 - 🗄️ SQL
@@ -24,6 +24,7 @@ Tenho experiência no desenvolvimento de dashboards interativos, tratamento e tr
 - 🧠 DAX
 - 🐍 Python para Análise de Dados
 - 🤖 Inteligência Artificial aplicada a negócios
+<img width="70" height="60" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" />
 
 ---
 
@@ -50,13 +51,13 @@ Tenho experiência no desenvolvimento de dashboards interativos, tratamento e tr
 ---
 
 <h3>## Estudando...</h3>
-<img width="70" height="60" alt="tenor (2)" src="https://github.com/user-attachments/assets/47047658-2a5f-49d9-be71-85bc1e0c5933" /> 
 
 - Ciência de Dados
 - Engenharia de Dados
 - Business Intelligence
 - Desenvolvimento Back-end
 - Inglês para tecnologia
+<img width="70" height="60" alt="tenor (2)" src="https://github.com/user-attachments/assets/47047658-2a5f-49d9-be71-85bc1e0c5933" /> 
 
 ---
 
