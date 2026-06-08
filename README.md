@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-📊 Analista de Dados em formação | Power BI | Excel | SQL | Business Intelligence
+📊 Analista de Dados Júnior | Power BI | Excel | SQL | Business Intelligence
 </h3>
 
 ---
