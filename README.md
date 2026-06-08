@@ -10,13 +10,13 @@
 ---
 
 ## Sobre mim:
-<img width="60" height="60" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" />
+
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou construindo minha carreira na área de **Dados e Business Intelligence**.
 
 Tenho experiência no desenvolvimento de dashboards interativos, tratamento e transformação de dados, análise de indicadores e criação de relatórios para apoiar a tomada de decisões.
 
-Atualmente estou aprofundando meus conhecimentos em:
+<img width="60" height="60" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" /> Atualmente estou aprofundando meus conhecimentos em:
 
 - 📊 Power BI
 - 🗄️ SQL
@@ -50,8 +50,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-## Estudando...
-<img width="60" height="60" alt="tenor (2)" src="https://github.com/user-attachments/assets/47047658-2a5f-49d9-be71-85bc1e0c5933" />
+<img width="60" height="60" alt="tenor (2)" src="https://github.com/user-attachments/assets/47047658-2a5f-49d9-be71-85bc1e0c5933" />## Estudando... 
 
 - Ciência de Dados
 - Engenharia de Dados
