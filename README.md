@@ -1,6 +1,6 @@
 <h1 align="center">
   Olá, eu sou Igor Muniz! 
-  <img width="576" height="321" alt="tenor" src="https://github.com/user-attachments/assets/b10e1a0e-a69d-47df-924b-e25c5b04367a"/>
+  <img width="40" height="40" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" />
 </h1>
 
 <h3 align="center">
