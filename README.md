@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou Igor Muniz! <img width="60" height="60" alt="tenor (3)" src="https://github.com/user-attachments/assets/cc6441d4-c259-4792-a35f-8920d10fe9ed" />
+  Olá, eu sou Igor Muniz! <img width="70" height="60" alt="tenor (3)" src="https://github.com/user-attachments/assets/cc6441d4-c259-4792-a35f-8920d10fe9ed" />
 
 </h1>
 
@@ -9,7 +9,8 @@
 
 ---
 
-<img width="60" height="60" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" /> ## Sobre mim:
+## Sobre mim:
+<img width="60" height="60" alt="tenor (1)" src="https://github.com/user-attachments/assets/b0ddb72f-e6d5-4d53-a69e-40d37440250b" />
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou construindo minha carreira na área de **Dados e Business Intelligence**.
 
@@ -49,7 +50,8 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-<img width="60" height="60" alt="tenor (2)" src="https://github.com/user-attachments/assets/47047658-2a5f-49d9-be71-85bc1e0c5933" /> ## Estudando...
+## Estudando...
+<img width="60" height="60" alt="tenor (2)" src="https://github.com/user-attachments/assets/47047658-2a5f-49d9-be71-85bc1e0c5933" />
 
 - Ciência de Dados
 - Engenharia de Dados
