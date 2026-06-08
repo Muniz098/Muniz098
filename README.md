@@ -1,6 +1,6 @@
 <h1 align="center">
   Olá, eu sou Igor Muniz! 
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="70">
+  <img src="https://media.tenor.com/qM3VxD9KX0sAAAAC/demon-slayer-tanjiro.gif" width="90">
 </h1>
 
 <h3 align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim:
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou construindo minha carreira na área de **Dados e Business Intelligence**.
 
@@ -27,19 +27,17 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-## 🚀 Projetos em Destaque:
+## Melhores Projetos:
 
-📌 Dashboard de Vendas  
+📌Dashboard de Vendas  
 📌 Dashboard de Recursos Humanos (RH)  
 📌 Dashboard Financeiro 
 📌 Dashboard de Produção  
 📌 Análises exploratórias com Excel e Power BI
 
-➡️ Confira meus repositórios para visualizar os projetos completos.
-
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Principais Tecnologias e Ferramentas:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,git,github,django" />
@@ -51,7 +49,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Estudando...
 
 - Ciência de Dados
 - Engenharia de Dados
@@ -61,13 +59,13 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-## 🎯 Objetivo Profissional
+## Meu Objetivo Profissional
 
 Busco me qualificar cada vez mais como **Analista de Dados**, utilizando dados para gerar insights, otimizar processos e apoiar decisões estratégicas.
 
 ---
 
-## 🌎 Conecte-se comigo
+## Segue ae:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/igor-muniz-6a9975202/">
