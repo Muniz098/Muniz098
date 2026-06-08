@@ -29,7 +29,7 @@ Tenho experiência no desenvolvimento de dashboards interativos, tratamento e tr
 
 ## Melhores Projetos:
 
-📌Dashboard de Vendas  
+📌 Dashboard de Vendas  
 📌 Dashboard de Recursos Humanos (RH)  
 📌 Dashboard Financeiro 
 📌 Dashboard de Produção  
