@@ -62,7 +62,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**. Trabalho no ciclo complet
 
 ## 🧭 Direção técnica
 
-Evolução contínua da análise para a engenharia e a arquitetura de dados:
+Evolução contínua da análise para a engenharia e a arquitetura de dados (Meus objetivos):
 
 ```text
 Data Analytics  ──▶  Data Engineering  ──▶  Data Architecture  ──▶  Data Science
